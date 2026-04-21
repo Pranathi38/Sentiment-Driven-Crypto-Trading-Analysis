@@ -15,6 +15,7 @@ Predict whether a trade will be profitable
 Data cleaning & merging on date
 Feature engineering (profit, trade size, time, sentiment)
 EDA (profit, win rate, trade size vs sentiment)
+Visualization
 Model: Random Forest Classifier
 
 # Results
@@ -26,7 +27,7 @@ Sentiment impacts trading behavior and outcomes
 # Conclusion
 Market sentiment is a useful signal for improving trading strategies and predicting profitability.
 
-📂 Project Structure
+# Project Structure
 ├── trades.csv
 ├── sentiment.csv
 ├── model.ipynb
